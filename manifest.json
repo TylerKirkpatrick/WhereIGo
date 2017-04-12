@@ -1,0 +1,16 @@
+{
+	"manifesst_version": 2,
+	"name": "WhereIGo",
+	"version": 1.0,
+	"description": "Keep track of the time spent on different websites so that you can see where you spend most of your time on the web",
+	"icons": {
+		"128": "icon128.png",
+		"48": "icon48.png",
+		"16": "icon16.png"
+	},
+	"browser_action": {
+		"default_icon": "icon16.png",
+		"default_popup": "popup.html"
+	}
+
+}
